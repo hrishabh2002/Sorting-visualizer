@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+    background-color: #DFF6FF;
+}
+.array_container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    height: 70vh;
+    justify-content: center;
+}
+
+.array_item{
+    background-color: #256D85;
+    width: 10px;
+    border: .1px solid black;
+}
+
+.header{
+    padding: 20px;
+    background-color: #06283D;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
